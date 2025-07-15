@@ -31,7 +31,7 @@ setup.bat
 This installs all required Python packages.
 2. Run the build script:
 ```bash
-setup.bat
+build.bat
 ```
 This creates the executable and prepares all necessary files.
 
@@ -60,3 +60,18 @@ Recording note location :
 ```bash
 %USERPROFILE%\GAssistNotes
 ```
+# Want to Contribute?
+All contributions are welcome!
+Whether you want to fix a bug, improve a feature, or simply propose an idea, don't hesitate to participate.
+
+🚀 How to contribute :
+- Fork this repository.
+- Create a branch (git checkout -b feature/my-feature).
+- Commit your changes (git commit -m ‘Add feature’).
+- Push your branch (git push origin feature/my-feature).
+- Open a Pull Request.
+
+Thank you for helping to improve this project! 🙌
+
+# License
+This project is licensed under the Apache License 2.0 – see the [LICENSE](LICENSE) file for details.

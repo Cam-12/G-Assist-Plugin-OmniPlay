@@ -44,3 +44,19 @@ This creates the executable and prepares all necessary files.
 💡 Tip: Make sure all files are copied, including:
 - The executable
 - manifest.json
+
+# How to Use
+Try these commands:
+- "Hey omniplay, note chest behind wall in Elden Ring"
+- "Hey omniplay, who is Melina in Elden Ring?"
+
+# Troubleshooting Tips
+The plugin logs all activity to:
+```bash
+%USERPROFILE%\omniplay-plugin.log
+```
+
+Recording note location :
+```bash
+%USERPROFILE%\GAssistNotes
+```

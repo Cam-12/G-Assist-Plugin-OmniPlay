@@ -1,0 +1,38 @@
+{
+  "manifestVersion": 1,
+  "executable": "./omniplay-plugin.exe",
+  "persistent": true,
+  "passthrough": false,
+  "functions": [
+    {
+        "name": "save_game_note",
+        "description": "Create a gameplay note while playing a game.",
+        "tags": ["note", "take_note"],
+        "properties": {
+            "game": {
+                "type": "string",
+                "description": "The name of the game the note belongs to."
+            },
+            "note": {
+                "type": "string",
+                "description": "The text of the note."
+            }
+        }
+    },
+    {
+      "name": "query_character_info",
+      "description": "Returns detailed information about a character, mission, or story element from a video game.",
+      "tags": ["character", "story", "mission", "npc", "lore", "info", "game"],
+      "properties": {
+        "game": {
+          "type": "string",
+          "description": "The name of the video game, like 'Elden Ring'"
+        },
+        "character": {
+          "type": "string",
+          "description": "The name of the character, mission, or topic to search for"
+        }
+      }
+    }
+  ]
+}

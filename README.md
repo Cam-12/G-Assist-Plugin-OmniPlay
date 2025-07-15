@@ -66,9 +66,9 @@ Whether you want to fix a bug, improve a feature, or simply propose an idea, don
 
 🚀 How to contribute :
 - Fork this repository.
-- Create a branch (git checkout -b feature/my-feature).
-- Commit your changes (git commit -m ‘Add feature’).
-- Push your branch (git push origin feature/my-feature).
+- Create a branch (`git checkout -b feature/my-feature`).
+- Commit your changes (`git commit -m ‘Add feature’`).
+- Push your branch (`git push origin feature/my-feature`).
 - Open a Pull Request.
 
 Thank you for helping to improve this project! 🙌

@@ -10,3 +10,13 @@ OmniPlay can provide contextual descriptions about :
 - specific game elements
 
 It automatically queries community wikis such as Fandom and wiki.gg, with a fallback search system if no direct info is found.
+
+# Setup
+## Prerequisites
+- Python 3.10 or higher installed
+- NVIDIA G-Assist installed
+
+# Installation
+## Step 1 : Download the code
+`git clone <repo link>`
+Download the code from GitHub

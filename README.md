@@ -18,5 +18,6 @@ It automatically queries community wikis such as Fandom and wiki.gg, with a fall
 
 # Installation
 ## Step 1 : Download the code
-```git clone <repo link>```
+```bash
+git clone <repo link>```
 Download the code from GitHub
